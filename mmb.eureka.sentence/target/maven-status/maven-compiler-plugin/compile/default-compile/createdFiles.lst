@@ -1,0 +1,8 @@
+com\hjh\microservice\eureka\sentence\WordServiceImpl.class
+com\hjh\microservice\eureka\sentence\Controller.class
+com\hjh\microservice\eureka\sentence\SubjectClient1.class
+com\hjh\microservice\eureka\sentence\SubjectClient.class
+com\hjh\microservice\eureka\sentence\NounClient.class
+com\hjh\microservice\eureka\sentence\SubjectClient2.class
+com\hjh\microservice\eureka\sentence\WordService.class
+com\hjh\microservice\eureka\sentence\SentenceApplication.class

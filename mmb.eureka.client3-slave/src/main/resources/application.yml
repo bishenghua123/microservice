@@ -1,0 +1,12 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-primary:8011/eureka/,http://eureka-secondary:8012/eureka/,http://eureka-tertiary:8013/eureka/
+    #register-with-eureka: false
+    #fetch-registry: false
+words: good man,bad man,common man
+
+server:
+  port: 8033
+#这个的意思是随机指定个没使用的端口 
+

@@ -1,0 +1,12 @@
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://eureka-primary:8011/eureka/,http://eureka-secondary:8012/eureka/,http://eureka-tertiary:8013/eureka/
+      defaultZone: http://localhost:8011/eureka/
+    #register-with-eureka: false
+    #fetch-registry: false
+words: 是,不是,可能是
+
+server:
+  port: 8031
+#这个的意思是随机指定个没使用的端口
