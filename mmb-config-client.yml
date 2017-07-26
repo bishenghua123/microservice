@@ -3,4 +3,4 @@
     serviceUrl:
       defaultZone: http://eureka-primary:8011/eureka/,http://eureka-secondary:8012/eureka/,http://eureka-tertiary:8013/eureka/
  wordConfig:
-  lucky-word: mmb
+ lucky-word: mmb
